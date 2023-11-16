@@ -70,11 +70,14 @@
 - **Wildfire, J.**, Gergen, P.J., Sorkness, C.A., Mitchell, H.E., Calatroni, A., Kattan, M., Szefler, S.J., Teach, S.J., Bloomberg, G.R., Wood, R.A., Liu, A.H., Pongracic, J.A., Chmiel, J.F., Conroy, K., Rivera-Sanchez, Y., Busse, W.W., Morgan, W.J. Development and validation of the Composite Asthma Severity Index--an outcome measure for use in children and adolescents. J Allergy Clin Immunol. 2012 Mar;129(3):694-701.
 - Szefler SJ, Mitchell H, Sorkness CA, Gergen PJ, O’Connor GT, Morgan W, Kattan M, Pongracic JA, Teach SJ, Bloomberg GR, Eggleston PA, Gruchalla RS, Kercsmar CM, Liu AH, **Wildfire J**, Curry MD, Busse WW.  Management of asthma based on exhaled nitric oxide in addition to guideline-based treatment for inner-city adolescents and young adults: a randomised controlled trial.  Lancet 2008, 372:1065-72.
 
-# Selected Publications 
+# Selected Presentations 
 
+- **Wildfire, J.**, Mallet, S. Soukup M. Interactive Safety Graphics: Innovative Approaches to Safety Analytics, Presented Oct 2023 at Phuse Safety Analytics Webinar Series.
+- **Wildfire, J.**, Benedict, J. 30k Secrets to Pre-competitive Collaboration: Accelerating Open-Source in Clinical Trials, Presented Sep 2023 at Fierce Clinical Summit in Philadelphia, PA.
+- **Wildfire J.**, Wu, G. Gilead’s First Risk Based Quality Management (RBQM) Analytics Pipeline, Presented Mar 2023 at Gilead Data Science Symposium.
 - **Wildfire, J.** Reimagining a Safety Submission. Presented March 2023 to Phuse community forum webinar
 - **Wildfire, J.**, Buchanan J and Hayashi S. Deep Mining Safety Signals. Presented Nov 2022 to DIA Statistics and Data Science Webinar 
-- **Wildfire, J.**, Mehra M. Beyond 1000s of TFLs – Future of reviewing and Summarizing Clinical Trials. Presented Nov 2022 to DIA Medical Writing, Clinical Research and Statistics Communities
+- **Wildfire, J.**, Mehra M. Beyond 1000s of TFLs – Future of reviewing and Summarizing Clinical Trials. Presented Nov 2022 to DIA Medical Writing, Clinical Research and Statistics Communities Webinar
 - **Wildfire, J.** Et al. Panelist at FDA/Duke-Margolis Public Workshop on Advancing Premarket Safety Analytics. Sep 2022
 - **Wildfire, J.** Buchanan, J.. Building Open-Source Tools for Safety Monitoring Advancing Research Through Community Collaboration. ASA Biopharm Webinar Series, Mar 2022
 - **Wildfire, J.** et al. Novel Visualization Tools for Safety Assessment: An Initiative Based on Multidisciplinary Collaboration. Presented to DIA Global Annual Meeting, June 2022. 
