@@ -1,6 +1,5 @@
 # Jeremy Wildfire
 
-# Contact Information
 - jwildfire@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/jeremy-wildfire/)
 - [GitHub](https://github.com/jwildfire)
@@ -73,17 +72,17 @@
 
 # Selected Publications 
 
-- Wildfire J. Reimagining a Safety Submission. Presented March 2023 to Phuse community forum webinar
-- Wildfire J, Buchanan J and Hayashi S. Deep Mining Safety Signals. Presented Nov 2022 to DIA Statistics and Data Science Webinar 
-- WildfireJ, Mehra M. Beyond 1000s of TFLs – Future of reviewing and Summarizing Clinical Trials. Presented Nov 2022 to DIA Medical Writing, Clinical Research and Statistics Communities
-- Wildfire, J. Et al. Panelist at FDA/Duke-Margolis Public Workshop on Advancing Premarket Safety Analytics. Sep 2022
-- Wildfire J. Buchanan, J.. Building Open-Source Tools for Safety Monitoring Advancing Research Through Community Collaboration. ASA Biopharm Webinar Series, Mar 2022
-- Wildfire J. et al. Novel Visualization Tools for Safety Assessment: An Initiative Based on Multidisciplinary Collaboration. Presented to DIA Global Annual Meeting, June 2022. 
-- Wildfire, J., Buchanan J, Watkins P. Interactive Safety Graphics: Hepatic Safety Explorer. Presented at May 2019 FDA Innovation Forum sponsored by the Office of Computational Science in Silver Spring, MD.
-- Wildfire, J., Krouse, R. Modernizing the Clinical Trial Analysis Pipeline with R and JavaScript. Presented at Jan 2019 RStudio: Conf. January 2019 in Austin, TX.
-- Wildfire, J., Bailey, R., Web Codebooks - Interactive Data Summaries for Clinical Trial Data. Presented at June 2018 PhUSE Connect	in Raleigh, NC.
-- Wildfire, J. Opening Up Clinical Trials: 7 Trends Towards Open Source. Presented at Dec 2016
+- **Wildfire, J.** Reimagining a Safety Submission. Presented March 2023 to Phuse community forum webinar
+- **Wildfire, J.**, Buchanan J and Hayashi S. Deep Mining Safety Signals. Presented Nov 2022 to DIA Statistics and Data Science Webinar 
+- **Wildfire, J.**, Mehra M. Beyond 1000s of TFLs – Future of reviewing and Summarizing Clinical Trials. Presented Nov 2022 to DIA Medical Writing, Clinical Research and Statistics Communities
+- **Wildfire, J.** Et al. Panelist at FDA/Duke-Margolis Public Workshop on Advancing Premarket Safety Analytics. Sep 2022
+- **Wildfire, J.** Buchanan, J.. Building Open-Source Tools for Safety Monitoring Advancing Research Through Community Collaboration. ASA Biopharm Webinar Series, Mar 2022
+- **Wildfire, J.** et al. Novel Visualization Tools for Safety Assessment: An Initiative Based on Multidisciplinary Collaboration. Presented to DIA Global Annual Meeting, June 2022. 
+- **Wildfire, J.**, Buchanan J, Watkins P. Interactive Safety Graphics: Hepatic Safety Explorer. Presented at May 2019 FDA Innovation Forum sponsored by the Office of Computational Science in Silver Spring, MD.
+- **Wildfire, J.**, Krouse, R. Modernizing the Clinical Trial Analysis Pipeline with R and JavaScript. Presented at Jan 2019 RStudio: Conf. January 2019 in Austin, TX.
+- **Wildfire, J.**, Bailey, R., Web Codebooks - Interactive Data Summaries for Clinical Trial Data. Presented at June 2018 PhUSE Connect	in Raleigh, NC.
+- **Wildfire, J.** Opening Up Clinical Trials: 7 Trends Towards Open Source. Presented at Dec 2016
 Pharmaceutical Users Software Exchange - Single Day Event in Chapel Hill, NC.
-- Wildfire, J. Interactive Web-Based Exploration of the 3.8 Million Adverse Event Reports in the OpenFDA Database. Presented at June 15 Drug Information Association conference in Washington, DC. 
-- Wildfire, J. Web-based Data Visualization in Biomedical Research. Presented at June 2015 Pharmaceutical Users Software Exchange single day event in Chapel Hill, NC.
-- Wildfire, J, Calatroni A, Lynch S, Boushey H, Fujimura K, Rauch M, Lynn H.  Interactive Exploration of Microbial Exposure, Asthma and Allergy Using a Web-Based Tool. Presented at American Academy of Allergy Asthma & Immunology Annual Meeting. March 2014 in San Diego, CA.
+- **Wildfire, J.** Interactive Web-Based Exploration of the 3.8 Million Adverse Event Reports in the OpenFDA Database. Presented at June 15 Drug Information Association conference in Washington, DC. 
+- **Wildfire, J.** Web-based Data Visualization in Biomedical Research. Presented at June 2015 Pharmaceutical Users Software Exchange single day event in Chapel Hill, NC.
+- **Wildfire, J.**, Calatroni A, Lynch S, Boushey H, Fujimura K, Rauch M, Lynn H.  Interactive Exploration of Microbial Exposure, Asthma and Allergy Using a Web-Based Tool. Presented at American Academy of Allergy Asthma & Immunology Annual Meeting. March 2014 in San Diego, CA.
