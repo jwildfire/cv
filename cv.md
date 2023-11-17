@@ -56,7 +56,7 @@
 - Javascript
 
 # Selected Manuscripts 
-*See [Google Scholar](https://scholar.google.com/citations?user=Hn0AnpIAAAAJ for full list of Manuscripts)
+*See [Google Scholar](https://scholar.google.com/citations?user=Hn0AnpIAAAAJ) for full list of Manuscripts*
 
 - Buchanan, J., Li, M., Ni, X., & **Wildfire, J.** (2021). A New Paradigm for Safety Data Signal Detection and Evaluation Using Open-Source Software Created by an Interdisciplinary Working Group. Therapeutic Innovation & Regulatory Science, 55(6), 1214-1219.
 - Villarreal, M. A., **Wildfire, J.**, Sorkness, C. A., Gergen, P. J., Visness, C. M., & Mitchell, H. E. (2020). Impact of Past Research Experience on Subsequent Trials: A Caution. American Journal of Respiratory and Critical Care Medicine, 201(2), 253-256.
