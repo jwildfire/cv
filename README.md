@@ -26,9 +26,13 @@
 
 ## Rho, Inc., Durham, NC
 *Senior Data Scientist (June 2016 – April 2020)*
+
 *Statistical Scientist (September 2013 – June 2016)*
+
 *Senior Biostatistician (June 2012 – September 2013)*
+
 *Statistical Consultant (June 2008 – September 2011)*
+
 *Biostatistician (October 2011 to June 2012 & January 2006 – June 2008)*
 
 -	Founder and lead of Rho’s Center for Applied Data Visualization. Managed a group of data scientists that designed and implemented tools for biomedical research, with a focus on open source visual analytics created using R and web-based interactive graphics.
