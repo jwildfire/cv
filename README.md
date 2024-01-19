@@ -76,8 +76,8 @@
 
 # Selected Presentations 
 
-- **Wildfire, J.**, Roumaya, M. Good Statistical Monitoring {gsm}: An R Package for Risk-Based Monitoring and Clinical Trial Analytics, Presented Feb 2023 at Phuse Connect in Bethesda, Md.
-- Roumaya, M., Stackhoue, M., **Wildfire, J.** Leveraging GitHub Actions and Continuous Integration in R Package Qualification. Presented Feb 2023 at Phuse Connect in Bethesda, Md.
+- **Wildfire, J.**, Roumaya, M. Good Statistical Monitoring {gsm}: An R Package for Risk-Based Monitoring and Clinical Trial Analytics, Presented Feb 2024 at Phuse Connect in Bethesda, Md.
+- Roumaya, M., Stackhoue, M., **Wildfire, J.** Leveraging GitHub Actions and Continuous Integration in R Package Qualification. Presented Feb 2024 at Phuse Connect in Bethesda, Md.
 - **Wildfire, J.**, Mallet, S. Soukup M. Interactive Safety Graphics: Innovative Approaches to Safety Analytics, Presented Oct 2023 at Phuse Safety Analytics Webinar Series.
 - **Wildfire, J.**, Benedict, J. 30k Secrets to Pre-competitive Collaboration: Accelerating Open-Source in Clinical Trials, Presented Sep 2023 at Fierce Clinical Summit in Philadelphia, PA.
 - **Wildfire J.**, Wu, G. Gilead’s First Risk Based Quality Management (RBQM) Analytics Pipeline, Presented Mar 2023 at Gilead Data Science Symposium.
