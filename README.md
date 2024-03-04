@@ -10,6 +10,19 @@
 ## Gilead Sciences, Inc., Foster City, CA
 *Director, Biostatistics (August 2020 – Present)*
 
+### Projects
+
+**RBQM** - Jeremy has served as the Technical Lead for Gilead's companywide RBQM effort since the project launched in early 2022. In this role, Jeremy has led a large cross-functional team that is working to build cutting-edge tools for centralized monitoring analytics along with clear and consistent processes and procedures to be implemented company-wide. As part of this effort, Jeremy led the development the [{gsm}](https://github.com/Gilead-BioStats/gsm) or Good Statistical Monitoring R pacakge, which provides a robust data pipeline and reporting framework for centralized monitoring. {gsm} is paired *gismo* with a fully-validated cloud-hosted framework that standardizes and automates the implementation of RBQM at Gilead. Together these tools are approved for GxP use and, as of early 2024, they have been used to ensure that there is adequate monitoring oversight for more than 15 active studies. Further, {gsm} was released publicly in the fall of 2023 and is part of OpenRBQM, a new pre-competitive Phuse working group with members from more than 20 organizations including Pharma, CROs and regulators. 
+
+**R Best Practices** - In addition to his RBQM work, Jeremy has served as a subject matter expert for various topics related to data science, with a focus on R best practices and package development. His projects include: 
+- Serving as co-lead for the open source safetyGraphics project which is co-sponsored by ASA and DIA. 
+- Establishing best practices for validation of internal R packages 
+- Developing the open-source {prep} package for templated shiny pacakge development 
+- Co-leading an R package development and Github trainings 
+
+
+### Responsibilites
+
 - Member of Advanced Analytics team with focus on reusable interactive data visualization for clinical trials
 -	Works collaboratively with Statistical Programming, Biostatistics, Clinical Research, Clinical Data Management, Global Drug Safety, Regulatory and Project Management management/staff to meet project deliverables and timelines for statistical data analysis and reporting. 
 - Uses knowledge of Regulatory requirements regarding statistical principles to ensure the company meets its Regulatory, scientific, and business objectives; collaborates with study investigators, outside experts, and internal colleagues to present and publish trial results and statistical analyses within and outside of the company, negotiates project timelines given constraints, works with senior management and Human Resources to identify long-term staffing plans, provides career development opportunities to staff, and participates in strategic risk assessment based on statistical analyses or principles. 
