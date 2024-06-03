@@ -76,7 +76,7 @@
 *See [Google Scholar](https://scholar.google.com/citations?user=Hn0AnpIAAAAJ) for full list of Manuscripts*
 
 - Ge, L., Wang, Z., Liu, C. C., Childress, S., **Wildfire, J.**, & Wu, G. (2024). Assessing the performance of methods for central statistical monitoring of a binary or continuous outcome in multi-center trials: A simulation study. Contemporary Clinical Trials, 107580.
-- Wu, G., Childress, S., Wang, Z., Roumaya, M., Stern, C. M., Dickens, C., & **Wildfire, J.** (2024). Good Statistical Monitoring: A Flexible Open-Source Tool to Detect Risks in Clinical Trials. Therapeutic Innovation & Regulatory Science, 1-7.
+- Wu, G., Childress, S., Wang, Z., Roumaya, M., Stern, C. M., Dickens, C., & **Wildfire, J.** (2024). [Good Statistical Monitoring: A Flexible Open-Source Tool to Detect Risks in Clinical Trials](https://link.springer.com/article/10.1007/s43441-024-00651-4). Therapeutic Innovation & Regulatory Science, 1-7.
 - Buchanan, J., Li, M., Ni, X., & **Wildfire, J.** (2021). A New Paradigm for Safety Data Signal Detection and Evaluation Using Open-Source Software Created by an Interdisciplinary Working Group. Therapeutic Innovation & Regulatory Science, 55(6), 1214-1219.
 - Villarreal, M. A., **Wildfire, J.**, Sorkness, C. A., Gergen, P. J., Visness, C. M., & Mitchell, H. E. (2020). Impact of Past Research Experience on Subsequent Trials: A Caution. American Journal of Respiratory and Critical Care Medicine, 201(2), 253-256.
 - **Wildfire, J.**, Bailey, R., Krouse, R. Z., Childress, S., Sikora, B., Bryant, N., and others (2018). The Safety Explorer Suite: Interactive Safety Monitoring for Clinical Trials. Therapeutic innovation & regulatory science, 52(6), 696-700.
