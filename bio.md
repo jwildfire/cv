@@ -1,0 +1,5 @@
+# Bio
+Jeremy Wildfire is a Data Scientist at Gilead and is focused on creating modern tools that improve the analysis pipeline for clinical trials. At Gilead, Jeremy serves as the technical lead for a company-wide Risk Based Quality Management initiative and led the creation of a new open-source framework for RBQM called good statistical monitoring or {gsm} and the OpenRBQM PHUSE project.  Jeremy has also served as the technical lead for the Interactive Safety Graphics (ISG) sub-team of the ASA Biopharm-DIA Safety Working Group since 2018. The working group is an interdisciplinary effort that seeks to provide a clinical safety workflow for monitoring during clinical development in an open-source model. The ISG team created a workflow to monitor hepatoxicity using the safetyGraphics R package and a well-documented clinical workflow based on the safety clinician’s monitoring practice.
+
+# Headshot
+<img src="https://github.com/user-attachments/assets/405d6ba7-d2ce-446a-9600-52f19ead42bd" width="180" height="200">
