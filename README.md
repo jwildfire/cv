@@ -90,7 +90,9 @@
 - Szefler SJ, Mitchell H, Sorkness CA, Gergen PJ, O’Connor GT, Morgan W, Kattan M, Pongracic JA, Teach SJ, Bloomberg GR, Eggleston PA, Gruchalla RS, Kercsmar CM, Liu AH, **Wildfire J**, Curry MD, Busse WW.  Management of asthma based on exhaled nitric oxide in addition to guideline-based treatment for inner-city adolescents and young adults: a randomised controlled trial.  Lancet 2008, 372:1065-72.
 
 # Selected Presentations 
-
+- {gsm.app}: Extensible Clinical Trial Monitoring Apps. Harmon, J. **Wildfire J.** Submitted for presentation at [Shiny Conf](https://www.shinyconf.com/), Virtual. April 2025.
+- OpenRBQM Extended: Endpoint Monitoring, Root-cause Analysis, and Workflows. Childress, S. **Wildfire, J.** Presented at Phuse US Connect, Orlando, Fla. March 2025. 
+- RBQM Workshop - Building Open-Source Tools paired with Central Monitoring Best Practice. **Wildfire, J.** Presented at Phuse US Connect, Orlando, Fla. March 2025. [Website](https://github.com/OpenRBQM/PhuseConnect25)
 - **Wildfire, J.**, Roumaya, M. Good Statistical Monitoring {gsm}: An R Package for Risk-Based Monitoring and Clinical Trial Analytics, Presented Feb 2024 at Phuse Connect in Bethesda, Md.
 - Roumaya, M., Stackhoue, M., **Wildfire, J.** Leveraging GitHub Actions and Continuous Integration in R Package Qualification. Presented Feb 2024 at Phuse Connect in Bethesda, Md.
 - **Wildfire, J.**, Mallet, S. Soukup M. Interactive Safety Graphics: Innovative Approaches to Safety Analytics, Presented Oct 2023 at Phuse Safety Analytics Webinar Series.
