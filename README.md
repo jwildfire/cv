@@ -61,6 +61,9 @@
 
 - Taught three levels of 6th grade math and a class for reading comprehension.
 
+# Awards 
+- [Phuse Plane Builder Award](https://phuse.global/About_PHUSE/PHUSE_Recognition/Plane_Builder), 2025 
+
 # Education
 - MS in Biostatistics, The University of North Carolina at Chapel Hill (2006)
 - BS in Mathematics, The University of North Carolina at Chapel Hill (2002)
