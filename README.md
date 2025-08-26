@@ -9,6 +9,7 @@
 
 ## Gilead Sciences, Inc., Foster City, CA
 *Senior Director, Biostatistics (August 2024 - Present)*
+
 *Director, Biostatistics (August 2020 – August 2024)*
 
 ### Projects
@@ -94,8 +95,8 @@
 - Szefler SJ, Mitchell H, Sorkness CA, Gergen PJ, O’Connor GT, Morgan W, Kattan M, Pongracic JA, Teach SJ, Bloomberg GR, Eggleston PA, Gruchalla RS, Kercsmar CM, Liu AH, **Wildfire J**, Curry MD, Busse WW.  Management of asthma based on exhaled nitric oxide in addition to guideline-based treatment for inner-city adolescents and young adults: a randomised controlled trial.  Lancet 2008, 372:1065-72.
 
 # Selected Presentations 
-
-- Harmon, J. **Wildfire J.** {gsm.app}: Extensible Clinical Trial Monitoring Apps. Presentated at [Shiny Conf](https://www.shinyconf.com/), Virtual. April 2025.
+- Maxwell, L., **Wildfire J.** Identifying Adverse Event Under-Reporting in Clinical Trials: A Statistical Approach, Presented at UseR 2025 in Durham, NC. August 2025. 
+- Harmon, J., **Wildfire J.** {gsm.app}: Extensible Clinical Trial Monitoring Apps. Presentated at [Shiny Conf](https://www.shinyconf.com/), Virtual. April 2025.
 - **Wildfire, J.**, Fomban, M. RBQM: Navigating Challenges, Maximising Impact, and Shaping the Future. Facilitated Interactive Discussion at Phuse Connect, Orlando, Fla. March 2025.
 - Childress, S. **Wildfire, J.** OpenRBQM Extended: Endpoint Monitoring, Root-cause Analysis, and Workflows.  Presented at Phuse US Connect, Orlando, Fla. March 2025. 
 - **Wildfire, J.**, Krohn, J., Childress, S., Harmon, J. Pastoor, D. RBQM Workshop - Building Open-Source Tools paired with Central Monitoring Best Practice. Presented at Phuse US Connect, Orlando, Fla. March 2025. [Website](https://github.com/OpenRBQM/PhuseConnect25)
