@@ -95,6 +95,8 @@
 - Szefler SJ, Mitchell H, Sorkness CA, Gergen PJ, O’Connor GT, Morgan W, Kattan M, Pongracic JA, Teach SJ, Bloomberg GR, Eggleston PA, Gruchalla RS, Kercsmar CM, Liu AH, **Wildfire J**, Curry MD, Busse WW.  Management of asthma based on exhaled nitric oxide in addition to guideline-based treatment for inner-city adolescents and young adults: a randomised controlled trial.  Lancet 2008, 372:1065-72.
 
 # Selected Presentations 
+
+- **Wildfire, J.**, Pastoor, D., Nantz, E. Cheng, J, Are Clinical Trials Ready for GenAI?, Presentated adn moderated panel discussion at R in Pharma Summit at Posit Conf in Atlanta, Ga. Sep 2025.
 - Maxwell, L., **Wildfire J.** Identifying Adverse Event Under-Reporting in Clinical Trials: A Statistical Approach, Presented at UseR 2025 in Durham, NC. August 2025. 
 - Harmon, J., **Wildfire J.** {gsm.app}: Extensible Clinical Trial Monitoring Apps. Presentated at [Shiny Conf](https://www.shinyconf.com/), Virtual. April 2025.
 - **Wildfire, J.**, Fomban, M. RBQM: Navigating Challenges, Maximising Impact, and Shaping the Future. Facilitated Interactive Discussion at Phuse Connect, Orlando, Fla. March 2025.
