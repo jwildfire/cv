@@ -96,7 +96,8 @@
 
 # Selected Presentations 
 
-- **Wildfire, J.**, Pastoor, D., Nantz, E. Cheng, J, Are Clinical Trials Ready for GenAI?, Presentated adn moderated panel discussion at R in Pharma Summit at Posit Conf in Atlanta, Ga. Sep 2025.
+- Surlej, M., **Wildfire, J** et al. Decoding AI in Clinical Trials: Practical Applications, Regulatory Reality, and the Road Ahead, Panelist for Phuse Webinar, February 2026.
+- **Wildfire, J.**, Pastoor, D., Nantz, E. Cheng, J, Are Clinical Trials Ready for GenAI?, Presentated and moderated panel discussion at R in Pharma Summit at Posit Conf in Atlanta, Ga. Sep 2025.
 - Maxwell, L., **Wildfire J.** Identifying Adverse Event Under-Reporting in Clinical Trials: A Statistical Approach, Presented at UseR 2025 in Durham, NC. August 2025. 
 - Harmon, J., **Wildfire J.** {gsm.app}: Extensible Clinical Trial Monitoring Apps. Presentated at [Shiny Conf](https://www.shinyconf.com/), Virtual. April 2025.
 - **Wildfire, J.**, Fomban, M. RBQM: Navigating Challenges, Maximising Impact, and Shaping the Future. Facilitated Interactive Discussion at Phuse Connect, Orlando, Fla. March 2025.
