@@ -6,6 +6,13 @@
 - [Google Scholar](https://scholar.google.com/citations?user=Hn0AnpIAAAAJ)
 - [Homepage](https://jwildfire.github.io)
 
+# Applied AI & Agentic Systems
+
+- **Keynote, R/Pharma 2026:** "What Can We Actually Do With AI Agents Right Now?" (October 2026), on open-source clinical trial tools built with Claude Code from May to October: 20 interactive charts, 7 clinical guides, 3 apps and about 600 pull requests. [Annotated talk](https://jwildfire.github.io/2026/10/21/rpharma-2026-keynote-annotated.html) and [live demo](https://jwildfire.github.io/safety.viz/demo)
+- Leads development of GxP-compliant frameworks utilizing generative AI for clinical trial analytics at Gilead
+- Daily practice building with Claude Code using multi-agent workflows for package development and clinical analytics
+- Panelist, "Decoding AI in Clinical Trials" (Phuse webinar, Feb 2026); presenter and moderator, "Are Clinical Trials Ready for GenAI?" (R in Pharma Summit at posit::conf, Sep 2025)
+
 # Professional Experience
 
 ## Gilead Sciences, Inc., Foster City, CA
@@ -64,6 +71,7 @@
 - Taught three levels of 6th grade math and a class for reading comprehension.
 
 # Awards 
+- Phuse Influencer Award, 2026
 - [Phuse Plane Builder Award](https://phuse.global/About_PHUSE/PHUSE_Recognition/Plane_Builder), 2025 
 
 # Education
@@ -71,6 +79,9 @@
 - BS in Mathematics, The University of North Carolina at Chapel Hill (2002)
 
 # Competencies
+- LLM application development (Claude, Claude Code)
+- Multi-agent workflows
+- Prompt and context engineering
 - R
 - Python
 - SAS
@@ -97,6 +108,7 @@
 
 # Selected Presentations 
 
+- **Wildfire, J.** What Can We Actually Do With AI Agents Right Now? Keynote at R/Pharma 2026. October 2026. [Annotated talk](https://jwildfire.github.io/2026/10/21/rpharma-2026-keynote-annotated.html)
 - Surlej, M., **Wildfire, J** et al. Decoding AI in Clinical Trials: Practical Applications, Regulatory Reality, and the Road Ahead, Panelist for Phuse Webinar, February 2026.
 - **Wildfire, J.**, Pastoor, D., Nantz, E. Cheng, J, Are Clinical Trials Ready for GenAI?, Presentated and moderated panel discussion at R in Pharma Summit at Posit Conf in Atlanta, Ga. Sep 2025.
 - Maxwell, L., **Wildfire J.** Identifying Adverse Event Under-Reporting in Clinical Trials: A Statistical Approach, Presented at UseR 2025 in Durham, NC. August 2025. 
