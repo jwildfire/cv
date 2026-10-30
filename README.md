@@ -4,6 +4,7 @@
 - [LinkedIn](https://www.linkedin.com/in/jeremy-wildfire/)
 - [GitHub](https://github.com/jwildfire)
 - [Google Scholar](https://scholar.google.com/citations?user=Hn0AnpIAAAAJ)
+- [Homepage](https://jwildfire.github.io)
 
 # Professional Experience
 
@@ -14,7 +15,7 @@
 
 ### Projects
 
-**Risk Based Quality Monitoring** - Jeremy has served as the Technical Lead for Gilead's companywide RBQM effort since the project launched in early 2022. In this role, Jeremy has led a large cross-functional team that is working to build cutting-edge tools for centralized monitoring analytics along with clear and consistent processes and procedures to be implemented company-wide. As part of this effort, Jeremy led the development the [{gsm}](https://github.com/Gilead-BioStats/gsm) or Good Statistical Monitoring R pacakge, which provides a robust data pipeline and reporting framework for centralized monitoring. {gsm} is paired *gismo* with a fully-validated cloud-hosted framework that standardizes and automates the implementation of RBQM at Gilead. Together these tools are approved for GxP use and, as of early 2024, they have been used to ensure that there is adequate monitoring oversight for more than 15 active studies. Further, {gsm} was released publicly in the fall of 2023 and is part of OpenRBQM, a new pre-competitive Phuse working group with members from more than 20 organizations including Pharma, CROs and regulators. 
+**Risk Based Quality Monitoring** - Jeremy has served as the Technical Lead for Gilead's companywide RBQM effort since the project launched in early 2022. In this role, Jeremy has led a large cross-functional team that is working to build cutting-edge tools for centralized monitoring analytics along with clear and consistent processes and procedures to be implemented company-wide. As part of this effort, Jeremy led the development the [{gsm}](https://github.com/Gilead-Public/gsm.core) or Good Statistical Monitoring R pacakge, which provides a robust data pipeline and reporting framework for centralized monitoring. {gsm} is paired *gismo* with a fully-validated cloud-hosted framework that standardizes and automates the implementation of RBQM at Gilead. Together these tools are approved for GxP use and, as of early 2024, they have been used to ensure that there is adequate monitoring oversight for more than 15 active studies. Further, {gsm} was released publicly in the fall of 2023 and is part of OpenRBQM, a new pre-competitive Phuse working group with members from more than 20 organizations including Pharma, CROs and regulators. 
 
 **R Best Practices** - In addition to his RBQM work, Jeremy has served as a subject matter expert for various topics related to data science, with a focus on R best practices and package development. His projects include: 
 - Serving as co-lead for the open source safetyGraphics project which is co-sponsored by ASA and DIA. 
