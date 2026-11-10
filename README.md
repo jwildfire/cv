@@ -71,7 +71,7 @@
 - Taught three levels of 6th grade math and a class for reading comprehension.
 
 # Awards 
-- Phuse Influencer Award, 2026
+- [Phuse Influencer Award](https://phuse.global/About_PHUSE/PHUSE_Recognition/PHUSE_Influencer), 2026
 - [Phuse Plane Builder Award](https://phuse.global/About_PHUSE/PHUSE_Recognition/Plane_Builder), 2025 
 
 # Education
